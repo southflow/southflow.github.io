@@ -1,0 +1,18 @@
+---
+layout:     post
+title:      "Hello 2017"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2017-10-16 23:00:00
+author:     "Austin"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - 工作
+---
+
+> “Yeah It's on. ”
+
+
+## 前言
+
+Austin 的 Blog 就这么开通了。时间一天一天的流失，尤其，当今的生活节奏比较快。在工作中，电脑时不时的弹出消息，手机时不时叮咚一下，工作中时不时有人找你解决问题，自己时不时想放松。仔细回想起上周、上月做了什么，很多都想不起来，这也是大脑对不重要事情的选择记忆。有时偶尔有些想法，如果不当事记录下来，后来也很容易被忘记。博客，就作为我时间流逝的记录器吧。
