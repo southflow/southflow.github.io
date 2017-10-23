@@ -4,7 +4,7 @@ SEOTitle: Austin的博客 | Austin Blog
 header-img: img/home-bg.jpg
 email: zhigao85@gmail.com
 description: "关于游戏与设计"
-keyword: "高志, Austin高志, Austin, 鬼栈, Austin的博客, Austin Blog, 博客, 个人网站, 互联网, C++, Linux, 后端, 设计"
+keyword: "高志, Austin高志, Austin, Austin的博客, Austin Blog, 博客, 个人网站, 互联网, C++, Linux, 后端, 设计, Python, Lua, Erlang"
 url: "southflow.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
