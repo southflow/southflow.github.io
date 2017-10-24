@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      "熟悉开发环境（一）"
+subtitle:   "任务"
+date:       2017-10-16 23:00:00
+author:     "Austin"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - 工作
+---
+
+> “Yeah It's on. ”
+
+
+- 换了新的项目，拿到一份新的代码，根据导航，搭建起开发环境。接下来进行跑环任务制作，策划在做需求，我这边可以先根据现有功能，理清开发思路。
+- SlickEdit工程配置，UEStudio可以选择。
+- TortoiseSVN可配置静态代码检查，例如，每次提交代码之前执行一段脚本，check.bat。右键 -> TortoiseSVN -> Settings -> Hook Scripts -> Add，然后，指定目录和执行命令。
+- 测试RPC 在游戏中添加一个窗口，测试窗口状态，输入数据，向服务器发送RPC，服务器收到之后，然后，将原内容返回RPC给客户端显示。
+
+- 进程罗列 网关进程、游戏逻辑进程、公共服进程、数据库服务器、全局服务器
