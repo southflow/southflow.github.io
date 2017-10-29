@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "熟悉开发环境（一）"
+title:      "开发环境"
 subtitle:   "任务"
 date:       2017-10-16 23:00:00
 author:     "Austin"
